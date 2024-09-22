@@ -279,3 +279,12 @@ The advisor is required to notify its clients of the identity and location of th
 IARs that are associated with state covered IAs must register in states where they have an office and also those where they have at least six retail clients.
 
 An investment adviser registers in a state by filing form ADV with the state through IARD (investment adviser registration depository).
+
+The three-part definition includes: evidence of ownership, can be traded for value, and managed through the efforts of a third party.
+
+Newsletter publishers are exempt from registration but only if they provide non-specific advice. In this case, the premier-level service crosses that line by providing tailored (personalized) recommendations to subscribers. Because these subscribers live in 15 or more states, SEC registration is required.
+
+
+A firm that provides investment advice on US government or agency securities only is excluded from the definition of an investment advisor, and therefore exempt from registration.
+
+An investment adviser provides advice on securities as its business, and the firm is compensated on the advice given, not on trades effected. Remember, broker-dealers conduct trades; investment advisers do not.

@@ -126,3 +126,5 @@ The fiduciary standard imposes duties of loyalty and care that apply throughout 
 BDs and IAs are allowed to delay distributing funds from a vulnerable adults account for up to 15 days if the suspect the customer is being financially exploited.
 
 Failing to furnish a prospectus to a customer purchasing a new offering is a prohibited practice, but only if the prospectus is not delivered by the trade confirmation date.
+
+An IA can charge a percentage of total assets under management for qualified clients who have at least $1.1 million invested with the IA or who have a net worth of $2.2 million.
