@@ -169,3 +169,12 @@ Transactions can be exempt if the method of sale reduces regulatory concerns.
 ---
 
 Use this guide to review the key 
+Municipal securities are federal covered securities outside the state of issuance, but within the state of issuance the state admin will have jurisdiction. Note that investment company securities, such as mutual funds, are federally covered.
+
+
+Registration is not required in the state if the private placement securities are offered to no more than 10 non-institutional investors in a 12-month period. There is no limit on the number of institutional investors that can purchase, and therefore the offering can be made to an unlimited number of persons (since the term persons includes institutional investors). All the other choices are example of exempt transactions.
+
+
+Any security issued by the federal government of a country with which the U.S. maintains diplomatic relations is exempt from state (USA) registration requirements.
+
+States can’t require the filing of periodic reports more often than quarterly. Quarterly reports (10-Qs) are the SEC standard for an issuer’s filing of periodic reports federal covered securities.

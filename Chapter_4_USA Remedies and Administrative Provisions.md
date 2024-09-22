@@ -36,6 +36,7 @@ If violations of the Uniform Securities Act occur, administrators can impose var
 
 These key points form the foundation for understanding the authority and tools available to state securities administrators, and how they maintain the integrity of securities markets by protecting investors and enforcing regulations.
 
+State Administrators generally do not have jurisdiction over the registration of agents or branches of SEC-registered firms. However, they do have jurisdiction over offers and transactions that originate in the state, are directed into the state, or are completed in the state.
 
 
 
@@ -94,3 +95,12 @@ Video 2
   - Recognizing the proper filing requirements for advertising related to securities.
 
 These concepts are essential for understanding the legal framework governing securities professionals and the protections in place for investors.
+
+Administrators have jurisdictions over offers or transactions that: 1) originate in the state, 2) are directed into the state, or 3) are settled or completed in the state.
+
+
+
+A disclosure brochure is not required to be delivered if the client is a registered investment company or if the advisory service is of an impersonal nature and costs less than $500. A disclosure brochure is not required when a customer opens a brokerage account. A brochure is required when the service provided is an individual supervisory service. Note: A client's net worth has no bearing on brochure delivery requirements.
+
+
+Prior to completing a new account form and customer profile, only unsolicited orders may be accepted. The rationale is that these orders do not involve a recommendation. The profile is required to assure that recommendations match customer needs and objectives. While IA client relationships are generally guided by the advisory agreement and not a "new account form/client profile," this would be true of an IA that is a dual capacity firm (acting as a BD in addition to its IA role).

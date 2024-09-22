@@ -119,3 +119,10 @@ Video 3
 
 ### Contact Information
 Thank you for choosing our Series 63 program. We hope this guide helps you in preparing and passing your exam.
+
+loyalty and care
+The fiduciary standard imposes duties of loyalty and care that apply throughout client engagements. They are not limited to individual securities transactions or recommendations. 
+
+BDs and IAs are allowed to delay distributing funds from a vulnerable adults account for up to 15 days if the suspect the customer is being financially exploited.
+
+Failing to furnish a prospectus to a customer purchasing a new offering is a prohibited practice, but only if the prospectus is not delivered by the trade confirmation date.

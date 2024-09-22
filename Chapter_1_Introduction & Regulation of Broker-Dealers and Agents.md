@@ -372,3 +372,32 @@ Not held order
 When a customer verbally specifies the action (buy or sell), the amount (number of shares or dollar amount) or asset (the underlying security) is referred to as a not held order. A not held order is not true discretion because it gives the agent the ability to pick the right time and price. This order is only good for the day it was requested.
 
 Registration forms are completed electronically through the central registration depository (CRD) system, which offers shared access to industry regulators.
+
+An individual may be registered with two different BDs simultaneously, provided the two firms are under the same common control, or are owned by the same parent company.
+
+
+Individuals employed by a broker-dealer who are effecting transactions in securities, are considered AGENTS of the broker-dealer and must satisfy applicable registration standards, as mandated by the state. It is not relevant whether the securities are exempt or not.
+
+
+The Uniform Securities Act defines a broker-dealer as a person that who has an office in this state OR has at least one retail client in this state. The USA excludes the following from the definition:
+• Issuers of securities
+• Banks
+• Savings institutions
+• Trust companies
+• Credit unions
+
+A partner, officer of director of a broker-dealer is required to register as an agent only if he/she conducts agent activities—i.e., if involved in effecting or attempting to effect securities transactions.
+
+Were you looking at the CTO who directly oversees registered agents? Supervision triggers registration as an IAR if supervising other IARs (but this rule does not apply to those supervising agents).
+
+In the context of the **Series 63** exam, the terms **entanglement**, **adoption**, **coordination**, and **qualification** relate to specific legal and regulatory concepts in securities laws:
+
+1. **Entanglement**: This refers to a situation where a firm or individual becomes involved with third-party content (e.g., on social media) to such an extent that they take on responsibility for that content. If a firm contributes to, edits, or endorses third-party content, they may be considered "entangled" and thus responsible for its accuracy under securities laws.
+
+2. **Adoption**: Similar to entanglement, adoption occurs when a firm or individual endorses or uses third-party information as their own. By "adopting" content, the firm assumes responsibility for its compliance with regulations, such as ensuring the content is not misleading.
+
+3. **Coordination**: Refers to a method of **registering securities** at both the federal and state levels simultaneously. If a security is registered with the SEC (Securities and Exchange Commission), the issuer can "coordinate" that registration with state authorities, streamlining the process.
+
+4. **Qualification**: This is a method of registering securities at the **state level** when no federal registration is required. The issuer must meet all state-specific requirements, which are generally more detailed and stringent than the coordination process.
+
+These terms reflect key regulatory procedures and responsibilities in securities offerings, disclosures, and communication under state laws relevant to the Series 63 exam.

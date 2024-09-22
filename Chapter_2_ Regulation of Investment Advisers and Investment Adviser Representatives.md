@@ -271,3 +271,11 @@ IAR works for a federal covered firm that notice files in states A, B, C, D, and
 - For federal covered firms, only office locations matter
 - Pay close attention to the firm type when determining registration requirements
 - Practice reading questions carefully to identify crucial details
+
+
+The advisor is required to notify its clients of the identity and location of the agent (bank) providing custody services, but need not post this information on its website.
+
+
+IARs that are associated with state covered IAs must register in states where they have an office and also those where they have at least six retail clients.
+
+An investment adviser registers in a state by filing form ADV with the state through IARD (investment adviser registration depository).
