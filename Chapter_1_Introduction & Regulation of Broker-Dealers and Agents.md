@@ -402,3 +402,51 @@ In the context of the **Series 63** exam, the terms **entanglement**, **adoption
 
 These terms reflect key regulatory procedures and responsibilities in securities offerings, disclosures, and communication under state laws relevant to the Series 63 exam.
 There are two types of agents under the USA: those who represent BDs and those who represent issuers. There are many more exclusions to the definition of issuer agent than there are to the definition of BD agent. Individuals who represent an issuer selling certain exempt securities, such as commercial paper directly to investors, are not defined as issuer agents. Nor are issuer employees who are paid a salary to sell company stock to other employees. On the other hand, BD employees who are engaged in any kind of securities transactions, even if they only trade U.S. government securities, are defined as agents. However, BD employees who are not engaged in securities transactions, such as accountants, are not classified as agents.
+
+
+Securities offered by a broker-dealer located in a bank branch can occur, however the following need to be put in place: The products are subject to loss. The securities are not guaranteed or backed by the bank. The securities are NOT covered by FDIC. Securities business has to be in a separate location with a SIPC logo.
+
+This financial institution is a commercial bank, not a BD. It is not engaged in the sale of any securities products, based on the information provided in the question. Therefore, it is not considered a BD in the state and is thus not required to register as a BD in any state in which it is operating.
+
+Surety Bonding in Series 63:
+Who Needs Surety Bonds?:
+Broker-dealers and investment advisers may be required by state regulators to post surety bonds if they:
+Have custody of client funds or securities.
+Have discretionary authority over client accounts.
+The bond acts as a financial guarantee to cover potential losses incurred by clients due to misconduct by the securities professional.
+
+In the context of the Series 63 exam, surety bonding refers to a requirement that certain securities professionals—such as broker-dealers or investment advisers—must obtain to ensure they can meet financial obligations related to their business practices. It serves as a form of protection for clients in case the securities professional engages in unethical practices, such as fraud or misappropriation of client funds.
+
+ **Fidelity Bond vs. Surety Bond**:
+   - While **surety bonds** ensure that a firm can meet certain obligations (such as paying claims or adhering to regulatory standards), **fidelity bonds** specifically protect against internal misconduct, ensuring that clients or the firm can recover losses caused by employee dishonesty.
+
+
+### Fidelity Bonds in Relation to the Series 63:
+
+1. **Who Requires Fidelity Bonds?**
+   - **Broker-dealers** and **investment advisers** with custody of client funds or securities are often required by state regulators or self-regulatory organizations (like FINRA) to maintain fidelity bond coverage.
+   - The bond serves as protection against losses resulting from employee malfeasance that could negatively affect clients.
+
+2. **What Do Fidelity Bonds Cover?**
+   - Fidelity bonds typically cover dishonest acts by employees, such as:
+     - **Theft** of client assets.
+     - **Embezzlement** or misappropriation of client funds.
+     - **Forgery** or fraud committed by the firm's personnel.
+   - These bonds do not cover poor investment decisions or market losses, as they are meant specifically to protect against misconduct.
+
+   3. **Regulatory Requirements**:
+   - Some **states** and regulatory bodies, like **FINRA**, have specific minimum coverage amounts for fidelity bonds. For example:
+     - **FINRA** requires that broker-dealers carry a fidelity bond to protect against losses from employee dishonesty, with minimum coverage based on the firm's size and the amount of client assets held.
+   - **State securities regulators** may impose similar requirements for registered investment advisers under their jurisdiction.
+
+- **Registration Requirements**:
+  - Dealers (BDs) must register with the state(s) where they have a place of business or conduct business with one or more retail clients.
+  - BDs must identify all their branch offices to the state(s).
+
+- **Notice Filing**:
+  - Notice filing is an abbreviated notification that does not require administrator approval and cannot be denied.
+  - BDs' registration, however, can be denied.
+
+- **Additional Requirements**:
+  - Notice filing requires filing fees.
+  - Notice filing must be renewed by December 31 each year.

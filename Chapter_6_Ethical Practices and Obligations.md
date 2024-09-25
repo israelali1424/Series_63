@@ -128,3 +128,28 @@ BDs and IAs are allowed to delay distributing funds from a vulnerable adults acc
 Failing to furnish a prospectus to a customer purchasing a new offering is a prohibited practice, but only if the prospectus is not delivered by the trade confirmation date.
 
 An IA can charge a percentage of total assets under management for qualified clients who have at least $1.1 million invested with the IA or who have a net worth of $2.2 million.
+
+The statute of limitations for bringing criminal action under the USA is a maximum of 5 years. For civil actions, the maximum period is 3 years.
+
+**agency cross transaction**
+
+In an agency cross transaction, the IA cannot recommend both sides of the trade to investors. If the IA recommends that customer A buy the stock, customer B’s sell request must be unsolicited.
+An agency cross transaction occurs when a broker-dealer acts as an intermediary for both the buyer and seller of a security without taking ownership of the security.
+
+Key Points:
+Role of Broker-Dealer:
+
+Facilitates the trade, earning a commission from both parties.
+Disclosure Requirements:
+
+Must disclose to both parties that they are acting as an agent for both and any potential conflicts of interest.
+Client Consent:
+
+Requires written consent from both clients to proceed with the transaction.
+Regulatory Considerations:
+
+Subject to SEC and FINRA regulations to ensure fair treatment and best execution.
+Benefits:
+
+Provides access to more buyers/sellers and can streamline the trading process.
+

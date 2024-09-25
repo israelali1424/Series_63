@@ -178,3 +178,5 @@ Registration is not required in the state if the private placement securities ar
 Any security issued by the federal government of a country with which the U.S. maintains diplomatic relations is exempt from state (USA) registration requirements.
 
 States can’t require the filing of periodic reports more often than quarterly. Quarterly reports (10-Qs) are the SEC standard for an issuer’s filing of periodic reports federal covered securities.
+
+An email blast is an offer only in the state of origination, which in this case is State Q.

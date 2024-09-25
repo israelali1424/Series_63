@@ -104,3 +104,14 @@ A disclosure brochure is not required to be delivered if the client is a registe
 
 
 Prior to completing a new account form and customer profile, only unsolicited orders may be accepted. The rationale is that these orders do not involve a recommendation. The profile is required to assure that recommendations match customer needs and objectives. While IA client relationships are generally guided by the advisory agreement and not a "new account form/client profile," this would be true of an IA that is a dual capacity firm (acting as a BD in addition to its IA role).
+
+A state Administrator has jurisdiction over any securities offers and sales that:
+
+I) Originated in the state
+II) Directed into the state
+III) Are completed in the state
+
+
+Under the USA, the maximum penalties for fraud are a $5,000 fine and/or three years imprisonment
+
+A final determination by the state Administrator, made pursuant to a hearing requested by the registrant, becomes effective immediately (December 3 in this case), provided the Administrator takes summary action. In this case, the license is reinstated if the registrant is successful in appealing to the court.

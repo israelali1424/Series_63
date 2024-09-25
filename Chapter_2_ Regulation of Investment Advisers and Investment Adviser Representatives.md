@@ -288,3 +288,29 @@ Newsletter publishers are exempt from registration but only if they provide non-
 A firm that provides investment advice on US government or agency securities only is excluded from the definition of an investment advisor, and therefore exempt from registration.
 
 An investment adviser provides advice on securities as its business, and the firm is compensated on the advice given, not on trades effected. Remember, broker-dealers conduct trades; investment advisers do not.
+
+When subject to the CE requirements, an IAR must complete six credits annually in Products and Practices as well as six credits annually in Ethics and Professional Responsibility.
+
+Under a sliding scale fee arrangement, the fee percentage charged by the adviser declines as assets under management (AUM) increase.
+
+Chpater has Coordination
+n this scenario, HMK will utilize Coordination as its method of registration. This is because the offering will be made in multiple states, thus necessitating SEC registration, which will be combined (coordinated) with the registration requirement of the various states.
+
+### Methods of Registration
+1. Notice filing (for federally covered securities)
+2. Coordination (for traditional IPOs)
+3. Qualification (for intrastate offerings)
+
+3. **Coordination**: Refers to a method of **registering securities** at both the federal and state levels simultaneously. If a security is registered with the SEC (Securities and Exchange Commission), the issuer can "coordinate" that registration with state authorities, streamlining the process.
+
+4. **Qualification**: This is a method of registering securities at the **state level** when no federal registration is required. The issuer must meet all state-specific requirements, which are generally more detailed and stringent than the coordination process.
+
+1. **Notice Filing**:
+   - **Purpose**: Used for securities that are federally covered (e.g., those listed on national exchanges or mutual funds).
+   - **Process**: The issuer simply files a notice with the state, informing the state of the federal registration. No state-level review is required.
+   - **Key Point**: This is not a full registration; it's more of a procedural notification. Often used for large, well-established issuers.
+
+2. **Registration by Notification (Filing)**:
+   - **Purpose**: For well-established issuers with a solid financial track record, offering securities that are already registered with the SEC.
+   - **Process**: The issuer files minimal documentation with the state, relying on their established history and SEC registration. It is a streamlined process.
+   - **Key Point**: This method is typically quicker and easier for issuers with a strong financial background.
