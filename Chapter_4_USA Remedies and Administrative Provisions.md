@@ -115,3 +115,9 @@ III) Are completed in the state
 Under the USA, the maximum penalties for fraud are a $5,000 fine and/or three years imprisonment
 
 A final determination by the state Administrator, made pursuant to a hearing requested by the registrant, becomes effective immediately (December 3 in this case), provided the Administrator takes summary action. In this case, the license is reinstated if the registrant is successful in appealing to the court.
+
+Notification of registration withdrawal requirements depend on whether the RIA is federal- or state-registered. If federal: The IAR is ultimately responsible for notifying the Administrator. If state: The RIA must notify the Administrator.
+
+All broker-dealers must maintain an SEC-prescribed minimum amount of net capital, the purpose of which is the maintain enough liquidity to protect customers. States often impose similar minimums.
+
+Regardless of the amount, cash or non-cash compensation paid to third parties for testimonials or endorsements must be disclosed in IA advertising. A written agreement with the party is required if the compensation exceeds $1,000. Testimonials or endorsements made by affiliates of the firms are not subject to these disclosure requirements.

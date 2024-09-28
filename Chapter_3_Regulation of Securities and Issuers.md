@@ -180,3 +180,65 @@ Any security issued by the federal government of a country with which the U.S. m
 States can’t require the filing of periodic reports more often than quarterly. Quarterly reports (10-Qs) are the SEC standard for an issuer’s filing of periodic reports federal covered securities.
 
 An email blast is an offer only in the state of origination, which in this case is State Q.
+
+
+ssues of companies listed on a major exchange are considered federally covered and are not required to register in the state. Government securities, municipal securities, and Canadian municipal securities are not required to register. There is no exemption for over-the-counter (e.g., OTC Pink) securities.
+
+The definition of securities has three parts:
+1. **Evidence of ownership**,
+2. **Can be traded for value**, and
+3. **Is managed through the efforts of a third party**.
+
+
+For registration by Qualification, the state Administrator will decide a securities effective date.
+
+Registration by Coordination is effective once the SEC says it’s effective. The issuer must file with the state at least 10 days prior to becoming effective with the SEC.
+
+A security would be federally covered if it trades on a national exchange. Pink Sheet stocks are traded over the counter and are not on a major exchange.
+
+To register by coordination, the issuer is registering with the SEC and the state at the same time. Registering with the SEC requires a registration statement to be filed.
+
+
+Consent to Service of Process is a legal document that a broker-dealer, investment adviser, or their representatives must file with state securities regulators as part of their registration process. By signing this document, the registrant agrees to allow the state regulator to receive legal papers (such as lawsuits) on their behalf, should they become involved in a legal dispute related to their securities business.
+
+**Consent to Service of Process** is a legal document that a broker-dealer, investment adviser, or their representatives must file with state securities regulators as part of their registration process. By signing this document, the registrant agrees to allow the state regulator to receive legal papers (such as lawsuits) on their behalf, should they become involved in a legal dispute related to their securities business.
+
+### Key Points:
+- **Purpose**: Ensures that legal actions can be taken against the registrant within the state without needing to serve them directly.
+- **Requirement**: Typically filed during the registration process with state securities regulators.
+- **Applicability**: Common for broker-dealers, investment advisers, and their agents when registering in a state.
+
+
+Securities are subject to the registration requirements of the **Uniform Securities Act (USA)** unless they are:
+1. **Exempt from registration** under the USA, or
+2. **Federal covered securities** precluded from state registration by **NSMIA** (National Securities Markets Improvement Act).
+
+- **U.S. Treasury bonds** are both exempt and federal covered.
+- **NASDAQ-listed stocks** are federal covered.
+- **Bank securities** are exempt under the USA.
+- **Bank stocks** are exempt, however, **bank holding company stocks** are not exempt.
+
+
+
+### Exempt vs. Non-Exempt Transactions (Series 63)
+
+#### Exempt Transactions:
+- **Definition**: Transactions that are not required to register with the state under the Uniform Securities Act.
+- **Common Examples**:
+  - **Isolated non-issuer transactions**: One-time trades that don’t involve an issuer (e.g., private resale).
+  - **Unsolicited brokerage transactions**: Transactions initiated by the client, not the broker.
+  - **Institutional investor transactions**: Trades with financial institutions like banks or insurance companies.
+  - **Fiduciary transactions**: Executed by executors, trustees, or guardians.
+  - **Private placements**: Offers made to a limited number of investors (typically fewer than 10 within 12 months).
+- **Purpose**: Reduces the regulatory burden for certain investors and transactions where full state oversight is unnecessary.
+
+#### Non-Exempt Transactions:
+- **Definition**: Transactions that must be registered with the state.
+- **Examples**:
+  - **Public offerings**: Offers made to the general public.
+  - **Issuer transactions**: When the issuer itself is involved in the sale of securities.
+  - **Solicited transactions**: Transactions initiated by brokers or agents rather than the client.
+
+#### Key Points for Series 63:
+- Exempt transactions often involve private, unsolicited, or institutional trades.
+- Non-exempt transactions typically require full registration and are more public-facing.

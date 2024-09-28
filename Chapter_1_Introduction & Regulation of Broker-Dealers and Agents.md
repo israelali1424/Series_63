@@ -450,3 +450,8 @@ In the context of the Series 63 exam, surety bonding refers to a requirement tha
 - **Additional Requirements**:
   - Notice filing requires filing fees.
   - Notice filing must be renewed by December 31 each year.
+
+
+Since the banker is securities licensed, the employee must be registered with FINRA and most likely a state. The banker is also a RR, since he is licensed as a representative for the firm’s broker-dealer.
+
+If a state Administrator believes that a firm is improperly supervising agents, the state can proceed with charges against the BD and the agent. Note that a "failure to supervise" violation against a firm only happens in situations where the agent has done something improper as well. Therefore, the firm can be charged for improper supervision, while the agent would be charged for whatever violation they performed (that would have led to the failure to supervise).

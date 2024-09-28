@@ -77,3 +77,26 @@ Here's a summary of the key points from the YouTube video about what to know for
 - Handling of customer complaints
 
 Remember to review the "Mighty 90" (Uniform Securities Act in 90 minutes) and "Who's Your Daddy" (about SEC vs. state jurisdiction) videos for additional context.
+
+### Exempt vs. Non-Exempt Transactions (Series 63)
+
+#### Exempt Transactions:
+- **Definition**: Transactions that are not required to register with the state under the Uniform Securities Act.
+- **Common Examples**:
+  - **Isolated non-issuer transactions**: One-time trades that don’t involve an issuer (e.g., private resale).
+  - **Unsolicited brokerage transactions**: Transactions initiated by the client, not the broker.
+  - **Institutional investor transactions**: Trades with financial institutions like banks or insurance companies.
+  - **Fiduciary transactions**: Executed by executors, trustees, or guardians.
+  - **Private placements**: Offers made to a limited number of investors (typically fewer than 10 within 12 months).
+- **Purpose**: Reduces the regulatory burden for certain investors and transactions where full state oversight is unnecessary.
+
+#### Non-Exempt Transactions:
+- **Definition**: Transactions that must be registered with the state.
+- **Examples**:
+  - **Public offerings**: Offers made to the general public.
+  - **Issuer transactions**: When the issuer itself is involved in the sale of securities.
+  - **Solicited transactions**: Transactions initiated by brokers or agents rather than the client.
+
+#### Key Points for Series 63:
+- Exempt transactions often involve private, unsolicited, or institutional trades.
+- Non-exempt transactions typically require full registration and are more public-facing.

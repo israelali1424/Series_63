@@ -153,3 +153,14 @@ Benefits:
 
 Provides access to more buyers/sellers and can streamline the trading process.
 
+# Custody of securities
+This statement is not true regarding custody. When a firm has custody of a client's assets, it generally means they have control over the assets and can perform actions such as withdrawing money, charging for safekeeping, and removing securities. However, trading securities in the account typically requires specific authorization or discretionary power, which is different from merely having custody.
+
+# Consent to Service of Process.
+All persons who are registered with a state must also submit a consent to service of process. For any non-criminal legal matter, the state administrator can work on behalf of the person if the person has filled out the consent. Additionally, it does not have to be renewed annually.
+
+
+Joint accounts must be approved in writing by both customer and firm. On the other hand, clients need not be told of commission splitting arrangements if they do not increase commissions. Nonexempt, unregistered securities sold through exempt transactions need not be registered, so there is no violation. Charging larger commissions for complex trades is permissible.
+
+
+gents may borrow or lend only with clients that are financial institutions (banks, credit unions, etc.) or broker-dealers or investment advisers. They cannot lend to a customer in any other circumstance, even if that customer is a family member.

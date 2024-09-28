@@ -128,3 +128,6 @@ The USA grants state administrators the authority to require the filing of any d
 
 
 There are many elements involved in the firm's social media activities, and the firm should be very clear and direct about its approach in this area. Amongst these choices, there is no particular requirement that a firm appoint a social media officer per se to oversee these activities. The monitoring of these activities must be part of the firm's broad supervisory platform.
+
+
+A written agreement must be created any time a client will receive compensation, directly or indirectly, of $1,000 or more for providing a testimonial or endorsement to an IA. The indirect compensation in this case is $1,200.
