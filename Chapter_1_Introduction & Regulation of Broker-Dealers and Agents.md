@@ -226,11 +226,6 @@ Broker-dealers must register in any state where they have:
 - New website and ads reach States A, B, and C
 - **Answer**: Register only in State A
 
-### Question 4
-
-- Broker-dealer DEF
-- State A retail client spends 3 months in State B
-- **Answer**: Register only in State A (client's residency)
 
 ## Key Takeaways
 
@@ -394,7 +389,11 @@ In the context of the **Series 63** exam, the terms **entanglement**, **adoption
 
 1. **Entanglement**: This refers to a situation where a firm or individual becomes involved with third-party content (e.g., on social media) to such an extent that they take on responsibility for that content. If a firm contributes to, edits, or endorses third-party content, they may be considered "entangled" and thus responsible for its accuracy under securities laws.
 
+**Example**: A broker-dealer regularly monitors and edits a third-party financial blog that discusses specific investment strategies and stock picks. If the firm suggests changes or adds content to these blog posts, it becomes entangled with that content. As a result, the firm would be responsible if any false or misleading information were published.
+
 2. **Adoption**: Similar to entanglement, adoption occurs when a firm or individual endorses or uses third-party information as their own. By "adopting" content, the firm assumes responsibility for its compliance with regulations, such as ensuring the content is not misleading.
+
+**Example**: A registered investment adviser shares an article written by an independent analyst on their official social media page, without providing a disclaimer. By posting the article without caveats or explanations, the adviser has "adopted" the content, and is responsible for making sure it adheres to regulatory standards, even though they did not originally create it.
 
 3. **Coordination**: Refers to a method of **registering securities** at both the federal and state levels simultaneously. If a security is registered with the SEC (Securities and Exchange Commission), the issuer can "coordinate" that registration with state authorities, streamlining the process.
 

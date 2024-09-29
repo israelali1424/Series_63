@@ -58,3 +58,36 @@ What is a state admin and what do they do
   - For **state registered advisors**: the number of retail clients.
   - For **federally covered advisors**: the presence of a physical office.
 
+https://www.professionalexamtutoring.com/series-63-pass-rate/
+
+### **Regulation Best Interest (Reg BI)** – **Broker-Dealers**
+
+- **Definition**: Reg BI requires broker-dealers (BDs) to act in the **best interest** of retail clients at the time of a recommendation, without prioritizing their own interests.
+
+- **Key Obligations**:
+  1. **Disclosure**: Must disclose material facts about the recommendation and conflicts of interest.
+  2. **Care**: Must exercise reasonable diligence, care, and skill to ensure the recommendation is in the client’s best interest.
+  3. **Conflict of Interest**: Must identify, disclose, and mitigate conflicts.
+  4. **Compliance**: Must have policies and procedures ensuring compliance with Reg BI.
+
+- **Standard**: Applies only during specific recommendations (transactional).
+
+---
+
+### **Fiduciary Standard** – **Investment Advisers**
+
+- **Definition**: Investment advisers (IAs) must act in the **best interest** of clients at all times, providing ongoing, comprehensive advice.
+
+- **Key Obligations**:
+  1. **Duty of Loyalty**: Must avoid or disclose conflicts and act with undivided loyalty.
+  2. **Duty of Care**: Must ensure advice is suitable and provide ongoing monitoring.
+  3. **Best Execution**: Must seek the best possible terms for client transactions.
+  
+- **Standard**: Ongoing fiduciary duty that applies throughout the client relationship.
+
+---
+
+### **Key Differences**:
+
+- **Reg BI (BDs)**: Transactional, focused on best interest at the time of a recommendation.
+- **Fiduciary Standard (IAs)**: Continuous, requiring IAs to put the client's interests first and provide ongoing advice.

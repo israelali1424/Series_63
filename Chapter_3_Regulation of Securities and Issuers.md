@@ -242,3 +242,25 @@ Securities are subject to the registration requirements of the **Uniform Securit
 #### Key Points for Series 63:
 - Exempt transactions often involve private, unsolicited, or institutional trades.
 - Non-exempt transactions typically require full registration and are more public-facing.
+
+
+### Fiduciary Transactions Exempt from State Registration (Series 63)
+
+Fiduciary transactions are exempt from state registration under the **Uniform Securities Act (USA)** in certain situations where individuals act in a fiduciary capacity. Here’s a summary of common exempt fiduciary transactions:
+
+#### **Exempt Fiduciary Transactions**:
+1. **Executors of Estates**: 
+   - Transactions conducted by an executor, administrator, or personal representative of an estate are exempt. These individuals manage the assets of a deceased person.
+
+2. **Trustees in Bankruptcy**: 
+   - Transactions conducted by a trustee appointed during a bankruptcy process are exempt, as they act to settle the bankrupt entity’s debts.
+
+3. **Guardians or Conservators**: 
+   - Transactions by a guardian or conservator on behalf of a minor or incapacitated person are exempt. These individuals manage the assets of the person under their care.
+
+4. **Receivers**: 
+   - Transactions made by a court-appointed receiver (e.g., in the case of a company liquidation) are also exempt.
+
+#### Key Points:
+- **Nature of Role**: The exemption applies because these individuals are acting in a fiduciary capacity, managing another party's assets rather than for their own benefit.
+- **State Law**: Even though these transactions are exempt from state registration, other securities laws (federal or otherwise) may still apply.

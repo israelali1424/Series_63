@@ -5,17 +5,20 @@ In this chapter, we delve into the communication rules for securities profession
 ## Key Goals and Takeaways
 
 ### 1. Disclosures
+
 - Understand the required disclosures when recruiting prospective clients and communicating with existing ones.
-- Disclosures are essential in the securities industry as they enable investors to make informed decisions. 
+- Disclosures are essential in the securities industry as they enable investors to make informed decisions.
 - For the exam, know the key account fees that must be disclosed: physical certificate issuance fees, account transfer fees, and margin account interest fees.
 - Not considered account fees (and thus disclosed separately): commissions, markups, markdowns, and advisory fees.
 
 ### 2. Misrepresentation
+
 - Securities professionals must avoid misrepresentations about their roles or the securities they offer.
 - Statements implying regulatory approval, endorsement, or accuracy (e.g., "approved by the New York State Administrator" or "the SEC reviewed the prospectus for accuracy") are prohibited.
 - Allowed statements include factual ones about registration status (e.g., "I am a registered agent of broker-dealer ABC").
 
 ### 3. Rules on Testimonials, Endorsements, and Advertisements
+
 - Advertisements are considered offers and can trigger state securities administrator jurisdiction.
 - Offers made via TV, radio, or newspapers are treated differently when crossing state lines:
   - A TV or radio ad broadcast in one state is not considered an offer in other states, preventing jurisdiction transfer.
@@ -23,27 +26,29 @@ In this chapter, we delve into the communication rules for securities profession
   - Newspapers of general circulation (two-thirds readership outside the state of publication) do not constitute offers anywhere, including in the state of publication.
 
 ### 4. Using Social Media
+
 - Securities professionals must adhere to specific rules when using social media to ensure compliance with regulatory standards.
 
 ## Examples of Allowed vs. Prohibited Communications
 
 ### Allowed Statements
+
 - A registered agent accurately describing their status.
 - Guaranteeing returns based on a third party, such as a parent company guaranteeing a subsidiary's bond payments.
 - Charging higher commissions due to a trade’s risk or liquidity, provided the client is informed and agrees.
 
 ### Prohibited Statements
+
 - Using terms like "approved" or "endorsed" when referring to registration status.
 - Guaranteeing investment performance or gains.
 
 ### Case Scenarios on Jurisdiction
+
 1. **Offer by an agent in State X to a client in State Y (no purchase made):** Jurisdiction is with both State X (origin) and State Y (directed into).
 2. **TV ad broadcast in State D, received in States D, E, and F:** Jurisdiction is only in State D.
 3. **Advertisement in a newspaper of general circulation based in State H, read in State G:** No jurisdiction anywhere as it’s not considered an offer.
 
----
-
-For more detailed rules and regulations on communications, please refer to your textbook, Chapter Five. Next, we will cover Chapter Six on ethical practices and obligations of securities professionals.
+The SEC Marketing Rule broadly defines an advertisement as any communication made to more than one person that offers new or additional securities-related services. One exception is for extemporaneous, or impromptu, oral communications.
 
 An advertisement in a newspaper is only considered an offer in the state where the paper is published. However, if more than two-thirds of the paper’s circulation is outside the state of publication, the advertisement is not considered an offer in any state. Since the Hometown Gazette is a local paper, assume that its distribution is primarily in the state of publication.
 
@@ -71,13 +76,13 @@ These terms reflect key regulatory procedures and responsibilities in securities
 
 Advisers must perform due diligence to ensure any third-party rating is not skewed and clearly and prominently disclose the date of the rating and the time period covered, the identity of the third party that created the rating, and whether any direct or indirect compensation was paid for obtaining or using the rating. It is not required to be further fact checked.
 
-
-5.4 
+5.4
 The **ADV form** is a key document used by investment advisers to register with the SEC (Securities and Exchange Commission) or state securities authorities. It provides crucial information about the adviser's business, including its services, fees, and any disciplinary history. The form consists of several parts, each serving a specific purpose:
 
 ### Parts of the ADV Form:
 
-1. **Part 1**: 
+1. **Part 1**:
+
    - **Focus**: Provides general information about the investment advisory firm, its operations, and disciplinary history.
    - **Contents**:
      - Basic details like the firm’s name, location, and regulatory status.
@@ -86,7 +91,8 @@ The **ADV form** is a key document used by investment advisers to register with 
      - The types of clients served (e.g., individuals, businesses).
      - Business practices, including custody of client funds, types of advisory services offered, and methods of compensation (e.g., fees, commissions).
 
-2. **Part 2A (Firm Brochure)**: 
+2. **Part 2A (Firm Brochure)**:
+
    - **Focus**: This is a narrative brochure that describes the firm’s services and business practices in a format that is more accessible to clients and prospective clients.
    - **Contents**:
      - Types of advisory services offered (e.g., portfolio management, financial planning).
@@ -97,6 +103,7 @@ The **ADV form** is a key document used by investment advisers to register with 
      - Other relevant business activities of the adviser.
 
 3. **Part 2B (Brochure Supplement)**:
+
    - **Focus**: Provides details about the individuals (supervised persons) who provide investment advice to clients.
    - **Contents**:
      - Educational background and business experience of the supervised persons.
@@ -113,6 +120,7 @@ The **ADV form** is a key document used by investment advisers to register with 
      - Where clients can get more detailed information or file complaints.
 
 ### Key Purposes of the ADV Form:
+
 - **Transparency**: Provides detailed information about the investment adviser's business and practices, allowing clients and regulators to assess suitability and regulatory compliance.
 - **Registration**: Required for registering the adviser with either the SEC (for firms managing over $100 million in assets) or state regulators (for smaller firms).
 - **Disclosure**: Ensures that potential conflicts of interest and other critical information are disclosed to clients.
@@ -126,8 +134,9 @@ NASAA rules require a brochure to delivered to a new client at least 48 hours pr
 5.1
 The USA grants state administrators the authority to require the filing of any disclosure or offering document and all forms of advertising for securities offered or sold in a state unless it is a federal covered security, or the security or transaction is exempt. If a security must be registered in a state, the administrator can require the filing of communications for that security. Bonds issued by Canada and all its municipalities are exempt from state registration under the USA. Only federal level bonds of other recognized foreign governments are exempt. Bonds issued by Mexico would be exempt, but bonds issued by a Mexican city are subject to registration.
 
-
 There are many elements involved in the firm's social media activities, and the firm should be very clear and direct about its approach in this area. Amongst these choices, there is no particular requirement that a firm appoint a social media officer per se to oversee these activities. The monitoring of these activities must be part of the firm's broad supervisory platform.
 
-
 A written agreement must be created any time a client will receive compensation, directly or indirectly, of $1,000 or more for providing a testimonial or endorsement to an IA. The indirect compensation in this case is $1,200.
+
+*** options disclosure document and options agreement**
+Prior to opening an options account, the customer must receive the options disclosure document. The options agreement is due within 15 days of account approval. The credit agreement and loan consent forms are used for margin accounts.

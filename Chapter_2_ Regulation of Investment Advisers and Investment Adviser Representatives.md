@@ -65,12 +65,14 @@ Entities excluded from the definition, even if they meet the A-B-C test:
 ### A. State Registration
 
 Required when:
+
 1. The firm has an office in the state
 2. The firm has **more than five** resident retail clients in the state
 
 ### B. Federal Registration (SEC)
 
 Required when meeting **any** of these criteria:
+
 1. Managing more than $100 million in assets
 2. Operating in 15 or more states
 3. Advising investment companies (e.g., mutual funds, ETFs)
@@ -89,6 +91,7 @@ Required when meeting **any** of these criteria:
 ## VII. Key Terms and Concepts
 
 - **A-B-C Test** for Investment Advisors:
+
   - **A**dvice (securities-related)
   - **B**usiness (ordinary course of)
   - **C**ompensation (received for advice)
@@ -97,7 +100,7 @@ Required when meeting **any** of these criteria:
 
 - **Wrap Account**: Combines brokerage transactions and advice for a single fee
 
-Video 2 
+Video 2
 Here's a comprehensive study guide for the provided passage:
 
 # Investment Advisor Registration and Regulation Study Guide
@@ -105,8 +108,9 @@ Here's a comprehensive study guide for the provided passage:
 ## I. State-Level Registration Process
 
 ### A. Form ADV
+
 - **Purpose**: To register as an investment advisor at the state level
-- **Contents**: 
+- **Contents**:
   - Details about the investment advisory firm
   - Business practices
   - Fee structures
@@ -115,6 +119,7 @@ Here's a comprehensive study guide for the provided passage:
 - **Filing method**: Must be submitted electronically to states
 
 ### B. Additional Requirements
+
 1. File consent to service of process
 2. Pay filing fees
 3. Meet minimum financial requirements:
@@ -124,27 +129,32 @@ Here's a comprehensive study guide for the provided passage:
    - Record-keeping (follow home state rules for all states)
 
 ### C. Registration Timeline
+
 - **Effective date**: Noon, 30 days after filing
 - **Expiration**: December 31st annually
 
 ## II. Federal vs. State Registration Thresholds
 
 ### A. Assets Under Management (AUM) Thresholds
+
 - **$100 million**: Eligibility for federal registration
 - **$110 million**: Mandatory federal registration (90 days to complete)
 - **$90 million**: Must switch back to state registration (180 days to complete)
 
 ### B. Transition Buffer
+
 - $100-110 million: Option to remain state-registered or switch to federal
 
 ## III. Federal Covered Investment Advisors
 
 ### A. Eligibility Criteria
+
 1. Managing over $100 million in assets
 2. Operating in 15 or more states
 3. Advising investment companies
 
 ### B. Notice Filing Requirements
+
 - Must notice file in states where they have:
   1. An office
   2. More than five resident retail clients
@@ -152,20 +162,25 @@ Here's a comprehensive study guide for the provided passage:
 ## IV. Example Scenario: Federal Covered Investment Advisor
 
 ### A. Company: ABC (Federal Covered Investment Advisory Firm)
+
 - **Offices**: New York, Texas (2 locations), California
 - **Clients**: 10 retail clients in New Jersey, 5 in Florida
 
 ### B. Business Conduct
+
 - Can conduct investment advisory business in all states
 
 ### C. Notice Filing Requirements
+
 1. New York (office)
 2. Texas (offices)
 3. California (office)
 4. New Jersey (more than 5 retail clients)
+
 - Note: No notice filing required in Florida (exactly 5 clients)
 
 ### D. Notice Filing Process
+
 1. Submit SEC documentation to relevant state securities administrators
 2. Pay required fees to each state
 
@@ -179,7 +194,7 @@ Here's a comprehensive study guide for the provided passage:
 - **Notice filing**: Required for federal covered advisors in states with offices or >5 retail clients
 - **"More than five" rule**: Triggers registration/notice filing requirements (5 exactly does not)
 
-Video 3 
+Video 3
 
 Here's a comprehensive study guide for the provided passage on Investment Advisor Representatives (IARs):
 
@@ -205,12 +220,16 @@ IARs are natural persons/individuals who work for investment advisory firms and 
 - Registration requirements depend on the type of firm they work for:
 
 #### 1. State-Registered Investment Advisory Firm
+
 IARs must register in states where they:
+
 - Have a place of business
 - Have more than five retail clients
 
 #### 2. Federal Covered Investment Advisory Firm
+
 IARs must register only in states where they:
+
 - Have a place of business
 
 ### B. Registration Process
@@ -234,6 +253,7 @@ Used for terminating IAR registration
 ### B. Notice Requirements
 
 1. For IARs working with State-Registered Firms:
+
    - The firm gives notice to the state administrator
 
 2. For IARs working with Federal Covered Firms:
@@ -246,6 +266,7 @@ Used for terminating IAR registration
 ### Question 1: State-Registered Firm Scenario
 
 IAR works for a state-registered firm in states A, B, C, D, and E:
+
 - Offices in A and B
 - 1 retail client in C
 - 5 retail clients in D
@@ -256,6 +277,7 @@ IAR works for a state-registered firm in states A, B, C, D, and E:
 ### Question 2: Federal Covered Firm Scenario
 
 IAR works for a federal covered firm that notice files in states A, B, C, D, and E:
+
 - Offices in A and B
 - 1 retail client in C
 - 5 retail clients in D
@@ -272,9 +294,7 @@ IAR works for a federal covered firm that notice files in states A, B, C, D, and
 - Pay close attention to the firm type when determining registration requirements
 - Practice reading questions carefully to identify crucial details
 
-
 The advisor is required to notify its clients of the identity and location of the agent (bank) providing custody services, but need not post this information on its website.
-
 
 IARs that are associated with state covered IAs must register in states where they have an office and also those where they have at least six retail clients.
 
@@ -283,7 +303,6 @@ An investment adviser registers in a state by filing form ADV with the state thr
 The three-part definition includes: evidence of ownership, can be traded for value, and managed through the efforts of a third party.
 
 Newsletter publishers are exempt from registration but only if they provide non-specific advice. In this case, the premier-level service crosses that line by providing tailored (personalized) recommendations to subscribers. Because these subscribers live in 15 or more states, SEC registration is required.
-
 
 A firm that provides investment advice on US government or agency securities only is excluded from the definition of an investment advisor, and therefore exempt from registration.
 
@@ -297,20 +316,30 @@ Chpater has Coordination
 n this scenario, HMK will utilize Coordination as its method of registration. This is because the offering will be made in multiple states, thus necessitating SEC registration, which will be combined (coordinated) with the registration requirement of the various states.
 
 ### Methods of Registration
+
 1. Notice filing (for federally covered securities)
 2. Coordination (for traditional IPOs)
 3. Qualification (for intrastate offerings)
 
-3. **Coordination**: Refers to a method of **registering securities** at both the federal and state levels simultaneously. If a security is registered with the SEC (Securities and Exchange Commission), the issuer can "coordinate" that registration with state authorities, streamlining the process.
+4. **Coordination**: Refers to a method of **registering securities** at both the federal and state levels simultaneously. If a security is registered with the SEC (Securities and Exchange Commission), the issuer can "coordinate" that registration with state authorities, streamlining the process.
 
-4. **Qualification**: This is a method of registering securities at the **state level** when no federal registration is required. The issuer must meet all state-specific requirements, which are generally more detailed and stringent than the coordination process.
+5. **Qualification**: This is a method of registering securities at the **state level** when no federal registration is required. The issuer must meet all state-specific requirements, which are generally more detailed and stringent than the coordination process.
 
-1. **Notice Filing**:
+6. **Notice Filing**:
+
    - **Purpose**: Used for securities that are federally covered (e.g., those listed on national exchanges or mutual funds).
    - **Process**: The issuer simply files a notice with the state, informing the state of the federal registration. No state-level review is required.
    - **Key Point**: This is not a full registration; it's more of a procedural notification. Often used for large, well-established issuers.
 
-2. **Registration by Notification (Filing)**:
+7. **Registration by Notification (Filing)**:
    - **Purpose**: For well-established issuers with a solid financial track record, offering securities that are already registered with the SEC.
    - **Process**: The issuer files minimal documentation with the state, relying on their established history and SEC registration. It is a streamlined process.
    - **Key Point**: This method is typically quicker and easier for issuers with a strong financial background.
+
+**2.5**
+
+### What It Means When an Investment Adviser (IA) Has Custody
+
+1. **Custody**: If an investment adviser holds onto your money or valuables (like stocks), they have "custody."
+
+2. **Minimum Net Worth**: The law says that if they have custody, they need to have at least **$35,000** in their own savings or assets. This is like saying they need to have some of their own money saved up.
