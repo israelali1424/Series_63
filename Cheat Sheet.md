@@ -91,3 +91,40 @@ https://www.professionalexamtutoring.com/series-63-pass-rate/
 
 - **Reg BI (BDs)**: Transactional, focused on best interest at the time of a recommendation.
 - **Fiduciary Standard (IAs)**: Continuous, requiring IAs to put the client's interests first and provide ongoing advice.
+
+
+### Exempt Transactions – Uniform Securities Act (USA)
+
+| **Type of Exempt Transaction**        | **Description**                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------|
+| **Isolated Non-Issuer Transactions**  | Occasional sales that don’t involve the issuer, like private sales between investors. |
+| **Unsolicited Brokerage Transactions**| Transactions initiated by the client without broker solicitation.               |
+| **Transactions with Financial Institutions** | Transactions between issuers and banks, insurance companies, or pension funds.  |
+| **Private Placements**                | Sales to no more than 10 non-institutional investors within a 12-month period.  |
+| **Fiduciary Transactions**            | Transactions by executors, trustees, or guardians managing assets for someone else. |
+
+---
+
+### Exempt Transactions – SEC (Federal Securities Law)
+
+| **Type of Exempt Transaction**  | **Description**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| **Regulation D (Private Placements)** | Exemptions for private offerings, including: <br> - **Rule 506(b)**: Unlimited accredited investors + 35 non-accredited investors <br> - **Rule 506(c)**: General solicitation but only accredited investors can buy. |
+| **Regulation A**                | Allows companies to raise up to $75 million without full SEC registration.       |
+| **Intrastate Offerings (Rule 147 & 147A)** | Offerings sold only to residents of a single state.                         |
+| **Regulation S**                | Offers made outside the U.S. to foreign investors.                              |
+| **Rule 144 (Resales of Restricted Securities)** | Allows resales of restricted securities, subject to holding periods and volume limitations. |
+
+
+
+An advertisement in a newspaper is only considered an offer in the state where the paper is published. However, if more than two-thirds of the paper’s circulation is outside the state of publication, the advertisement is not considered an offer in any state. Since the Hometown Gazette is a local paper, assume that its distribution is primarily in the state of publication.
+
+Form ADV made simple 
+Form ADV is used by IA to register with the state.
+
+Part 1 provides information about the firm such type of business (LLC, Sole proprietorship ect), location blah blah
+
+Part 2 is THE brochure. It basically answers any question a client may have (fees, how it is calculated, discretionary authority, term of contract).
+
+That's how I make sense of it.
+

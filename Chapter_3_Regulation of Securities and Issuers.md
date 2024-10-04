@@ -264,3 +264,35 @@ Fiduciary transactions are exempt from state registration under the **Uniform Se
 #### Key Points:
 - **Nature of Role**: The exemption applies because these individuals are acting in a fiduciary capacity, managing another party's assets rather than for their own benefit.
 - **State Law**: Even though these transactions are exempt from state registration, other securities laws (federal or otherwise) may still apply.
+
+**Administrator**
+Following the issuance of a stop order by an Administrator, the Administrator must offer a hearing to address deficiencies or violations. If the issuer doesn’t accept the offer of a hearing within 15 days, the order becomes effective.
+
+
+
+### Exempt Transactions – Uniform Securities Act (USA) 3.4
+
+| **Type of Exempt Transaction**        | **Description**                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------|
+| **Isolated Non-Issuer Transactions**  | Occasional sales that don’t involve the issuer, like private sales between investors. |
+| **Unsolicited Brokerage Transactions**| Transactions initiated by the client without broker solicitation.               |
+| **Transactions with Financial Institutions** | Transactions between issuers and banks, insurance companies, or pension funds.  |
+| **Private Placements**                | Sales to no more than 10 non-institutional investors within a 12-month period.  |
+| **Fiduciary Transactions**            | Transactions by executors, trustees, or guardians managing assets for someone else. |
+
+---
+
+### Exempt Transactions – SEC (Federal Securities Law)
+
+| **Type of Exempt Transaction**  | **Description**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| **Regulation D (Private Placements)** | Exemptions for private offerings, including: <br> - **Rule 506(b)**: Unlimited accredited investors + 35 non-accredited investors <br> - **Rule 506(c)**: General solicitation but only accredited investors can buy. |
+| **Regulation A**                | Allows companies to raise up to $75 million without full SEC registration.       |
+| **Intrastate Offerings (Rule 147 & 147A)** | Offerings sold only to residents of a single state.                         |
+| **Regulation S**                | Offers made outside the U.S. to foreign investors.                              |
+| **Rule 144 (Resales of Restricted Securities)** | Allows resales of restricted securities, subject to holding periods and volume limitations. |
+
+
+Many IPOs include the sale of securities by a company founder or other large shareholders through what is termed a registered secondary offering. Proceeds go to the founder and selling shareholders, not the company itself.
+
+Testimonials must disclose whether or not cash or non-cash compensation was provided for the testimonial. Any material conflicts of interest must be disclosed. But if there are none, the disclosure is not required.

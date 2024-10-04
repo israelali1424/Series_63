@@ -343,3 +343,14 @@ n this scenario, HMK will utilize Coordination as its method of registration. Th
 1. **Custody**: If an investment adviser holds onto your money or valuables (like stocks), they have "custody."
 
 2. **Minimum Net Worth**: The law says that if they have custody, they need to have at least **$35,000** in their own savings or assets. This is like saying they need to have some of their own money saved up.
+
+**de minimis**
+The 'de minimis' exemption for the IAR of a state-registered advisor is a maximum of 5 retail clients (or, no more than five) during the preceding 12-month period.
+
+
+When an IA has custody over client assets, it must perform extra levels of due diligence to protect the safety and security of those assets. The audit service utilized must be an independent service, one not affiliated with the adviser. Client assets may not be combined with those of any other client or the adviser, and itemized statements must be provided at least once every 3 months, not 3 years.
+
+he IAR CE Model Act requires IARs to complete 12 credits of CE annually by December 31. The required credits include 6 credits of Products and Practices and 6 credits of Ethics and Professional Responsibility. Excess credits may not be carried forward. Failure to complete will result in “CE Inactive” status. IARs with this status may maintain their registration until the end of the current year but must complete any outstanding CE requirements before conducting advisory business for the IA. There are no exemptions from the requirement in states where it is adopted.
+
+2.1
+Under a wrap fee program, a firm charges a customer one fee for the cost of trading (brokerage services) and the cost of advice. By selling both brokerage and advice, the firm is required to register as both a broker-dealer and an investment adviser. The firm's employees, who are offering the programs, are required to register as investment adviser representatives. Registration as an investment adviser representative is always at the state level.

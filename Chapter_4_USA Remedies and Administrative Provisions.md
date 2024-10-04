@@ -121,3 +121,47 @@ Notification of registration withdrawal requirements depend on whether the RIA i
 All broker-dealers must maintain an SEC-prescribed minimum amount of net capital, the purpose of which is the maintain enough liquidity to protect customers. States often impose similar minimums.
 
 Regardless of the amount, cash or non-cash compensation paid to third parties for testimonials or endorsements must be disclosed in IA advertising. A written agreement with the party is required if the compensation exceeds $1,000. Testimonials or endorsements made by affiliates of the firms are not subject to these disclosure requirements.
+
+
+### Recovery of Damages under the Uniform Securities Act 4.3
+
+If a client sues under the **USA**, they are entitled to:
+- **Cost of Securities** or losses realized.
+- **Reasonable Interest** at the legal rate.
+- **Court Costs and Attorney’s Fees**.
+- **Less Income Received** (e.g., dividends or interest).
+
+---
+
+### **Offer of Rescission**
+An offer of rescission is made to avoid a lawsuit and includes:
+- **Cost of Securities** or losses.
+- **Reasonable Interest** at the legal rate.
+- **Less Income Received**.
+
+> **Note**: Rescission does **not** include court costs or attorney’s fees.
+
+---
+
+### Key Differences
+
+| **Aspect**                     | **Making a Client Whole**                          | **Offer of Rescission**                        |
+|---------------------------------|---------------------------------------------------|------------------------------------------------|
+| **Court Costs & Fees**          | Included                                          | Excluded                                       |
+| **Purpose**                     | Compensates after a lawsuit                       | Avoids lawsuit by settling beforehand          |
+| **Timing**                      | After legal action                                | Before legal action                            |
+
+4.4 
+
+Agents may be required to post a bond if
+they maintain discretionary accounts.
+Agents are not subject to net worth or
+minimum net capital requirements.
+Investment Advisers are subject to net
+worth requirements while BDs are
+subject to net capital requirements. The
+Administrator cannot require firms to
+post a bond exceeding that required by
+the SEC.
+
+

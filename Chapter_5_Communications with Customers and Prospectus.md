@@ -138,5 +138,17 @@ There are many elements involved in the firm's social media activities, and the 
 
 A written agreement must be created any time a client will receive compensation, directly or indirectly, of $1,000 or more for providing a testimonial or endorsement to an IA. The indirect compensation in this case is $1,200.
 
+The SEC Marketing Rule defines paid testimonials made by third parties to the adviser as advertisements subject to the rule. Exceptions exist for affiliates of the adviser and for promoters that receive de minimis compensation of $1,000 or less (or an equivalent value of non-cash compensation).
+
 *** options disclosure document and options agreement**
 Prior to opening an options account, the customer must receive the options disclosure document. The options agreement is due within 15 days of account approval. The credit agreement and loan consent forms are used for margin accounts.
+
+
+An investment advisory agreement would specify the services provided, the advisory fee formula computing the fee, and the terms of the contract.
+
+
+
+Customers must also return a signed margin agreement promptly after the initial transaction in the account. The three parts of the margin agreement are:
+*   Hypothecation agreement -Obligates the customer to hypothecate, or pledge, securities in the account as collateral for a loan from the BD. The BD is authorized to re-hypothecate the customer securities as collateral for a loan from a bank.
+*   Credit agreement-Specifies the terms and interest on the loan from the BD.
+*   Loan consent form-Authorizes the BD to lend stock held in the customer's account to other investors for short sales. This is the only part of the margin agreement that is optional.

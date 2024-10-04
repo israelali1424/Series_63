@@ -196,3 +196,8 @@ gents may borrow or lend only with clients that are financial institutions (bank
 
 - **Reg BI (BDs)**: Transactional, focused on best interest at the time of a recommendation.
 - **Fiduciary Standard (IAs)**: Continuous, requiring IAs to put the client's interests first and provide ongoing advice.
+
+No securities professional is permitted to misrepresent the meaning of their registration status. Of note, no one can ever say that anyone authorizes, endorses, or approves of their work.
+
+
+The Investment Company Act of 1940 stipulates a qualified purchaser as: A person or family business holding an investment portfolio with a $5 million or more. A trust sponsored and managed by a qualified purchaser. A legal entity that invests a minimum of $25 million for others or their own account. A legal entity where all owners are qualified purchasers
