@@ -165,3 +165,4 @@ post a bond exceeding that required by
 the SEC.
 
 
+A rescission process may be initiated by either a registered person or a customer. In either case, it provides for an offer of settlement (made by the registered person) that can be accepted or rejected in writing by the investor within 30 days of receipt. If the offer is rejected in writing within 30 days, the investor can proceed to file a claim in court.
