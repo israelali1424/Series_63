@@ -296,3 +296,19 @@ Following the issuance of a stop order by an Administrator, the Administrator mu
 Many IPOs include the sale of securities by a company founder or other large shareholders through what is termed a registered secondary offering. Proceeds go to the founder and selling shareholders, not the company itself.
 
 Testimonials must disclose whether or not cash or non-cash compensation was provided for the testimonial. Any material conflicts of interest must be disclosed. But if there are none, the disclosure is not required.
+
+
+### Exempt Securities on the Series 63
+
+On the Series 63 exam, **exempt securities** refer to those securities that are exempt from registration requirements under state securities laws, as outlined in the Uniform Securities Act. These securities can be sold without the need for state registration, although they may still be subject to anti-fraud provisions.
+
+#### Common Exempt Securities:
+1. **U.S. Government Securities**: Treasury bonds, bills, and notes.
+2. **Municipal Securities**: Bonds issued by states, cities, and other local government entities.
+3. **Securities of Banks and Savings Institutions**: Stocks or bonds issued by banks or savings and loan institutions.
+4. **Commercial Paper**: Short-term debt securities with a maturity of 270 days or less.
+5. **Non-Profit Securities**: Securities issued by non-profit organizations, such as religious or charitable organizations.
+6. **Public Utility Securities**: Securities issued by regulated public utilities.
+7. **Insurance Company Securities**: Securities issued by insurance companies (not variable contracts).
+
+These securities are generally considered lower risk and thus are exempt from the more stringent state registration processes.

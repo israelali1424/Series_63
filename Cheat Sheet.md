@@ -114,6 +114,23 @@ https://www.professionalexamtutoring.com/series-63-pass-rate/
 | **Regulation S**                                | Offers made outside the U.S. to foreign investors.                                                                                                                                                                    |
 | **Rule 144 (Resales of Restricted Securities)** | Allows resales of restricted securities, subject to holding periods and volume limitations.                                                                                                                           |
 
+### Exempt Securities on the Series 63
+
+On the Series 63 exam, **exempt securities** refer to those securities that are exempt from registration requirements under state securities laws, as outlined in the Uniform Securities Act. These securities can be sold without the need for state registration, although they may still be subject to anti-fraud provisions.
+
+#### Common Exempt Securities:
+
+1. **U.S. Government Securities**: Treasury bonds, bills, and notes.
+2. **Municipal Securities**: Bonds issued by states, cities, and other local government entities.
+3. **Securities of Banks and Savings Institutions**: Stocks or bonds issued by banks or savings and loan institutions.
+4. **Commercial Paper**: Short-term debt securities with a maturity of 270 days or less.
+5. **Non-Profit Securities**: Securities issued by non-profit organizations, such as religious or charitable organizations.
+6. **Public Utility Securities**: Securities issued by regulated public utilities.
+7. **Insurance Company Securities**: Securities issued by insurance companies (not variable contracts).
+
+These securities are generally considered lower risk and thus are exempt from the more stringent state registration processes.
+|
+
 An advertisement in a newspaper is only considered an offer in the state where the paper is published. However, if more than two-thirds of the paper’s circulation is outside the state of publication, the advertisement is not considered an offer in any state. Since the Hometown Gazette is a local paper, assume that its distribution is primarily in the state of publication.
 
 Form ADV made simple
